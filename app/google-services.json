@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484602511231",
+    "project_id": "insightsync-1",
+    "storage_bucket": "insightsync-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484602511231:android:4ba8e6737c8b569c15a44a",
+        "android_client_info": {
+          "package_name": "com.example.insightsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484602511231-gj5jmrv1oiijsnatti6r6pu6i7tgeb8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm1UFZrarNk2mRuYMnTLFDq-Gy1hETKgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484602511231-gj5jmrv1oiijsnatti6r6pu6i7tgeb8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
